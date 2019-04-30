@@ -1,6 +1,8 @@
 Voices from Torpedownia
 =======================
 
+> **Location:** The Polish town Gdynia at the Baltic Sea
+
 Introduction
 ------------
 
