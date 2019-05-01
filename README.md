@@ -13,6 +13,11 @@ Free Documentation License".
 Voices from Torpedownia
 =======================
 
+A role-playing scenario for the Call of Cthulhu role-playing system,
+wherein the investigators can reflect on if it's worth
+gaining a moment of pure satisfaction by defeating all ghosts from the past
+before loosing sanity or even the own life
+
 > **Location:** The Polish town Gdynia at the Baltic Sea
 
 > **Time:** The early 1960s
