@@ -60,12 +60,12 @@ came crawling into his from battle noise recovering ears,
 looking back at the enemy line,
 he suddenly felt all the fears of his entire life
 becoming obsolete compared to sudden pure and total fright
-instilled into him by what he barely could perceive
+instilled into him by what he barely could perceive now
 in his whole life's darkest night.
 
 Remaining clouds of gas were soaked into the ground,
 human lifeless bodies flying up and down,
 rushing through each other like the leafs of trees in heavy storm,
-held by countless arms of a creature that could have not been born
+held by countless arms of a giant creature that could have not been born
 beneath this starless cloudy new moon sky,
 ...
