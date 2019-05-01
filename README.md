@@ -15,7 +15,7 @@ Voices from Torpedownia
 
 > **Location:** The Polish town Gdynia at the Baltic Sea
 
-> **Time:** The 1960s
+> **Time:** The early 1960s
 
 > **Dramatis Personae:**
 
@@ -116,13 +116,15 @@ Investigators
   and all German soldiers getting mysteriously killed
   and taken away during an exceptionally dark night
   by a giant alien creature,
-  which left recurring horror visions in his mind
+  which left recurring horror visions in Radek's mind
   for most of his life.
 * A man of action, who is almost fearless after having endured
   an unimaginable fright when whitnessing
   the supernatural incident on the battle field,
-  but got lazy ...
-* Having lost his parents to the war at home,
+  but got lazy in his old days due to alcohol,
+  which he drinks more and more to drown his torturing emotions
+  about the losses of all the loved ones in his life.
+* After having lost his parents to the war at home,
   he moved to Gdynia after the war
   to help building the new Baltic Sea port,
   started a family and stayed there.
@@ -130,8 +132,6 @@ Investigators
   his wife and all his children to the war.
 * Very skilled and telented in various handcrafts,
   able to repair virtually any machine.
-* Drinks too much alcohol to drown his torturing emotions
-  about the losses of all the loved ones in his life.
 * Wants to find out what's going on in the Torpedownia sea platform
   after being told about voices of the stolen young poeple
   can be heard from there at night.
@@ -144,11 +144,11 @@ Investigators
   who whitnesses the group getting mysteriously snatched away
   by an alien creature into the Baltic Sea
   during the night at Orłowo beach.
-* Convinces Radek to investigate the incident of her stolen friends
+* Convinces Radek to investigate the incident of her stolen friends together
   and find out what's going on in the Torpedownia sea platform
   after hearing voices of her friends from there at night
   when revisiting the beach.
-* Has already lots of practical experience as an physician assistant,
+* Has already lots of practical experience as a physician assistant,
   is therefore able to treat many injuries,
   and has a good sense for approaching health threats.
 
@@ -161,7 +161,8 @@ Investigators
   during World War II, where she was the only survivor besides him
   after an attack on the group that Radek had not seen coming
   due to being drunk.
-* Loves Radek, but could never forgive him the loss of their group members,
+* Loves Radek, but could never forgive him
+  the loss of their resistance group members,
   so they haven't seen or talked to each other for a long time.
 * Asked by Radek to join the investigation of Torpedownia,
   since he knows she is the only one
