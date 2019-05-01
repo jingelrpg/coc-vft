@@ -33,7 +33,7 @@ the fog drains steadily into the ground,
 inside it spreads and reaches out,
 filling up each tiny gap of air,
 charming the feet of those who came this night right there
-to breath the breeze ,
+to breath the ... breeze,
 to breath in stars down from a sky exceptionally clear,
 now feeling like walking in a second sea,
 a sea not liquid but as soft as made of cotton flowers
@@ -80,4 +80,15 @@ human lifeless bodies flying up and down,
 rushing through each other like the leafs of trees in heavy storm,
 held by countless arms of a giant creature that could have not been born
 beneath this starless cloudy new moon sky,
-...
+then slowly ...
+
+The horror was gone and soon the war,
+a country was reborn and needed his skills, his talents in crafts,
+his will to rebuild a prosperous Polish society,
+love approached him from shiny green eyes
+and gifted him joy, two sons, one daughter, an adorable family,
+leaving less and less space for visions of horror in his closed eyes' sight,
+horror that had followed him night by night
+now vanished away, became an old dream from ...
+
+As years went by the war came again,
