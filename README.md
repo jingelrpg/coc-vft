@@ -15,6 +15,14 @@ Voices from Torpedownia
 
 > **Location:** The Polish town Gdynia at the Baltic Sea
 
+> **Time:** The 1960s
+
+> **Dramatis Personae:**
+
+* [Investigators](#investigators)
+* [Non-Player Characters](#non-player-characters)
+* [Mythos Creatures](#mythos-creatures)
+
 Introduction
 ------------
 
@@ -92,3 +100,69 @@ horror that had followed him night by night
 now vanished away, became an old dream from ...
 
 As years went by the war came again,
+
+Investigators
+-------------
+
+> ***Radosław*** **'Radek'** ***Szulc***
+
+* A retired World War I veteran from a small village near Kraków (Cracow),
+  who was forced as a young man to fight for the Russian army
+  and was one of the few survivors on an unspecified minor battle field
+  in the end phase of the war in Eastern Europe,
+  after all soldiers on the Russian side were killed
+  by German artillery and a gas attack,
+  followed by all gas getting strangely soaked up by the ground
+  and all German soldiers getting mysteriously killed
+  and taken away during an exceptionally dark night
+  by a giant alien creature,
+  which left recurring horror visions in his mind
+  for most of his life.
+* A man of action, who is almost fearless after having endured
+  an unimaginable fright when whitnessing
+  the supernatural incident on the battle field,
+  but got lazy ...
+* Having lost his parents to the war at home,
+  he moved to Gdynia after the war
+  to help building the new Baltic Sea port,
+  started a family and stayed there.
+* Joined the Polish resistance in World War II after having lost
+  his wife and all his children to the war.
+* Very skilled and telented in various handcrafts,
+  able to repair virtually any machine.
+* Drinks too much alcohol to drown his torturing emotions
+  about the losses of all the loved ones in his life.
+* Wants to find out what's going on in the Torpedownia sea platform
+  after being told about voices of the stolen young poeple
+  can be heard from there at night.
+
+> ***Małgorzata*** **'Gosia'** ...
+
+* A medicine student from Gdynia,
+  who is the only one of a group of young people
+  that can be saved by Radek,
+  who whitnesses the group getting mysteriously snatched away
+  by an alien creature into the Baltic Sea
+  during the night at Orłowo beach.
+* Convinces Radek to investigate the incident of her stolen friends
+  and find out what's going on in the Torpedownia sea platform
+  after hearing voices of her friends from there at night
+  when revisiting the beach.
+* Has already lots of practical experience as an physician assistant,
+  is therefore able to treat many injuries,
+  and has a good sense for approaching health threats.
+
+> ...
+
+* A retired pharmacy owner from Gdańsk,
+  who used the chemical knowledge she gained from her father,
+  the former owner of the pharmacy,
+  to become an explosives specialist in Radek's resistance group
+  during World War II, where she was the only survivor besides him
+  after an attack on the group that Radek had not seen coming
+  due to being drunk.
+* Loves Radek, but could never forgive him the loss of their group members,
+  so they haven't seen or talked to each other for a long time.
+* Asked by Radek to join the investigation of Torpedownia,
+  since he knows she is the only one
+  who might believe him what happened to the young people at the beach.
