@@ -13,16 +13,23 @@ Free Documentation License".
 Voices from Torpedownia
 =======================
 
-A role-playing scenario for the Call of Cthulhu role-playing system,
+A scenario for the [Call of Cthulhu role-playing system](
+  https://www.chaosium.com/call-of-cthulhu-rpg/),
 wherein the investigators can reflect on if it's worth
 gaining a moment of pure satisfaction by defeating all ghosts from the past
-before loosing sanity or even the own life
+before loosing sanity or even their own life.
+
+> **Licensed** under the [GNU Free Documentation License 1.3](
+    https://www.gnu.org/licenses/fdl.html)
+
+-- Written by **Jingël Bøltę**,
+a **#Nerdy** manifestation of **Stefan Zimmermann**
 
 > **Location:** The Polish town Gdynia at the Baltic Sea
+>
+> **Era:** The early 1960s
 
-> **Time:** The early 1960s
-
-> **Dramatis Personae:**
+**Dramatis Personae:**
 
 * [Investigators](#investigators)
 * [Non-Player Characters](#non-player-characters)
