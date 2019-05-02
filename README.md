@@ -208,10 +208,12 @@ INVESTIGATORS
   his wife and all his three children to the war.
   There he met Jelka, a young woman with exceptional intellect
   and huge knowledge in chemistry,
-  which led to her becoming the explosives specialist in his resistanc group,
-  which got attacked one night by a Gestapo group.
+  which had made her become an explosives specialist.
+  Soon after joiing his resistanc group,
+  they got attacked one night by Gestapo.
   Radek was drunk and therfore didn't see them coming.
-  Only Jelka and he survived, but couldn't deal with other anymore
+  Only Jelka and Radek survived,
+  but couldn't deal each with other anymore
   due to his lethal failure.
 * Radek is a man of action, who is almost fearless after having endured
   an unimaginable fright when whitnessing
@@ -240,19 +242,21 @@ INVESTIGATORS
   by an alien creature into the Baltic Sea
   during the night at Orłowo beach.
 * Gosia lost her mother during a similar event when she was a child
-  and alone with her mother at Orłowo beach at night,
+  and alone with her at Orłowo beach at night,
   happy that the war was over,
   cherishing their survival and their hope for a better future.
   She saw a cat and wanted to play with it.
   When she ran after the cat a little away from the beach,
   the same fog suddenly appeared.
-  Her mother was as fascinated as her present friends by the strange event,
+  Her mother was as fascinated as Gosia's present friends
+  by the strange event,
   and was eventually also dragged into the sea like them.
   Nodoby wanted to believe Gosia's story about what she had seen.
   The event was offically declared as a suicide by the police.
   Gosia grew up alone then with her father,
-  and as the years went by, the memories of her mother and this tragedy
-  become nothing but a childhood dream.
+  and as the years went by, the memories of her mother
+  and the tragedy of her mother's disappearance
+  become more and more just an old childhood dream.
 * Gosia is a brave young woman with straight goals her life.
   She has already lots of practical experience as a physician assistant,
   is therefore able to treat many injuries,
@@ -262,15 +266,15 @@ INVESTIGATORS
   and Gosia realizes that it was caused by the same mysterious force.
   She decides to fight back.
   After a few days she returns to Orłowo beach at night
-  and suddenly hears their voices of her friends,
+  and suddenly hears the voices of her friends,
   seeming to come from Torpedownia.
-  She convinces Radek to investigate the incident together
+  She convinces Radek to investigate the incident together with her
   and reveal the mystery about what is going on
   in the abandoned military sea platform.
 
 > ***Angelika*** **'Jelka'** ***Bronsztajn***
 
-* The head of a smuggler organization in Gdańsk,
+* The head of a smuggling organization in Gdańsk,
   which secretly imports Swedish medicines to Poland,
   where health-care is badly organized
   and has to struggle with constant shortages in medication supply
@@ -288,11 +292,11 @@ INVESTIGATORS
   and took the opportunity to run a pharmacy
   after the retirement of its former owner
   and fellow Jewish community member.
-* Following the Nazi occupation of Gdańsk,
+* During the Nazi occupation of Gdańsk,
   Jelka and her father found shelter in different Jewish friendly families,
   until her father was eventually arrested by Gestapo.
   Luckily she wasn't found and continued to find several hideouts.
-* During World War II,
+* In the middle of World War II,
   Jelka joined the Polish resistance,
   where she used the chemical knowledge she gained from her father
   to become an explosives specialist.
@@ -301,7 +305,7 @@ INVESTIGATORS
   but was soon afterwards besides Radek the only survivor
   of an attack on the group
   that Radek had not seen coming due to being drunk.
-* Jelka fell in love with Radek and still loves him,
+* Jelka still loves Radek,
   but could never forgive him the loss of their resistance group members.
   Therefore they haven't seen or talked to each other for a long time.
   But Radek asks her to join the investigation of Torpedownia,
@@ -337,7 +341,7 @@ INVESTIGATORS
 * The father of Jelka, who she tought was executed by Gestapo
   during the Nazi occupation of Gdańsk.
 * Now the Master of Chairs of Kult Kotylionu (Cult of Cotillion)
-  which has occupied the abandoned Torpedownia military sea platform
+  which has occupied the abandoned military sea platform Torpedownia
   after World War II.
 * _\[TODO\]_
 * ...
