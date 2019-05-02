@@ -222,41 +222,76 @@ INVESTIGATORS
 
 * A medicine student from Gdynia,
   who is the only one of a group of young people
-  that can be saved by Radek,
-  who whitnesses the group getting mysteriously snatched away
+  that can be saved by Radek
+  when he whitnesses the group getting mysteriously snatched away
   by an alien creature into the Baltic Sea
   during the night at Orłowo beach.
-* Convinces Radek to investigate the incident of her stolen friends together
-  and find out what's going on in the Torpedownia sea platform
-  after hearing voices of her friends from there at night
-  when revisiting the beach.
-* Has already lots of practical experience as a physician assistant,
+* Gosia lost her mother during a similar event when she was a child
+  and alone with her mother at Orłowo beach at night,
+  happy that the war was over,
+  cherishing their survival and their hope for a better future.
+  She saw a cat and wanted to play with it.
+  When she ran after the cat a little away from the beach,
+  the same fog suddenly appeared.
+  Her mother was as fascinated as her present friends by the strange event,
+  and was eventually also dragged into the sea like them.
+  Nodoby wanted to believe Gosia's story about what she had seen.
+  The event was offically declared as a suicide by the police.
+  Gosia grew up alone then with her father,
+  and as the years went by, the memories of her mother and this tragedy
+  become nothing but a childhood dream.
+* Gosia is a brave young woman with straight goals her life.
+  She has already lots of practical experience as a physician assistant,
   is therefore able to treat many injuries,
-  and has a good sense for approaching health threats.
+  and has a good sense for recognizing probable threats to health.
+* After the incident of her stolen friends,
+  all memories about her mother come back
+  and Gosia realizes that it was caused by the same mysterious force.
+  She decides to fight back.
+  After a few days she returns to Orłowo beach at night
+  and suddenly hears their voices of her friends,
+  seeming to come from Torpedownia.
+  She convinces Radek to investigate the incident together
+  and reveal the mystery about what is going on
+  in the abandoned military sea platform.
 
-> _\[TODO\]_ ...
+> ***Angelika*** **'Jelka'** ***Bronsztajn***
 
-* A retired pharmacy owner from Gdańsk,
-  who used the chemical knowledge she gained from her father,
-  the former owner of the pharmacy,
-  to become an explosives specialist in Radek's resistance group
-  during World War II, where she was the only survivor besides him
-  after an attack on the group that Radek had not seen coming
-  due to being drunk.
-* Loves Radek, but could never forgive him
-  the loss of their resistance group members,
-  so they haven't seen or talked to each other for a long time.
-* Asked by Radek to join the investigation of Torpedownia,
-  since he knows she is the only one
+* The head of a smuggler organization in Gdańsk,
+  which secretly imports Swedish medicines to Poland,
+  where health-care is badly organized
+  and has to struggle with constant shortages in medication supply
+  from the Soviet Union.
+* Jelka has a very broad knowledge and speeks several languages,
+  which she learned from her father,
+  an Austro-Slovakian World War I deserter from Bratislava,
+  who was one of the earliest members of the Esperanto movement
+  and former owner of a pharmacy in the Free City of Gdańsk.
+* During World War II,
+  Jelka used the chemical knowledge she gained from her father
+  to become an explosives specialist in Radek's resistance group.
+  Besides him, she was the only survivor of an attack on the group
+  that Radek had not seen coming due to being drunk.
+* Jelka loves Radek, but could never forgive him
+  the loss of their resistance group members.
+  Therefore they haven't seen or talked to each other for a long time.
+  But Radek asks her to join the investigation of Torpedownia,
+  because he feels that she is the only one
   who might believe him what happened to the young people at the beach.
+  He also hopes that she will realize how much he truly regrets
+  his failures of the past,
+  and that he hopes to eventually find salvation
+  by rescuing those stolen young people
+  and facing the mysterious forces
+  that have haunted him in his dreams for most of his life.
 
 ## NON-PLAYER CHARACTERS
 
-> **Fishermen**
+> **Redłowo fishermen**
 
 * _\[TODO\]_ ...
 
-> **Guard dogs for the fisher boats**
+> **Guard dogs of the fisher boats**
 
 * _\[TODO\]_ ...
 
