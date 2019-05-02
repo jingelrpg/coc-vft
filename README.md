@@ -335,8 +335,8 @@ INVESTIGATORS
 > **Miroslav Bronsztajn**
 
 * The father of Jelka, who she tought was executed by Gestapo
-  during the Nazi occupation of Gdańsk,
-  and now the Master of Chairs of Kult Kotylionu (Cult of Cotillion)
+  during the Nazi occupation of Gdańsk.
+* Now the Master of Chairs of Kult Kotylionu (Cult of Cotillion)
   which has occupied the abandoned Torpedownia military sea platform
   after World War II.
 * _\[TODO\]_
