@@ -303,6 +303,14 @@ INVESTIGATORS
 
 * _\[TODO\]_ ...
 
+> **Miroslav Bronsztajn**
+
+* The father of Jelka, who she tought had died during World War II,
+  and now the Master of Chairs of the Cult of _\[TODO\]_
+  which has occupied abandoned Torpedownia after the war.
+* _\[TODO\]_
+* ...
+
 ## MYTHOS CREATURES
 
 _\[TODO\]_ ...
