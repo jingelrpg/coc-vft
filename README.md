@@ -25,9 +25,9 @@ before loosing sanity or even their own life.
 -- Written by **Jingël Bøltę**,
 a **#Nerdy** manifestation of **Stefan Zimmermann**
 
-> **LOCATION:** The Polish town Gdynia at the Baltic Sea
+> **LOCATION:** The Polish town **Gdynia** at the **Baltic Sea**
 >
-> **ERA:** The early 1960s
+> **ERA:** The early **1960s**
 
 **CHALLENGES:**
 
