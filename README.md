@@ -25,17 +25,32 @@ before loosing sanity or even their own life.
 -- Written by **Jingël Bøltę**,
 a **#Nerdy** manifestation of **Stefan Zimmermann**
 
-> **Location:** The Polish town Gdynia at the Baltic Sea
+> **LOCATION:** The Polish town Gdynia at the Baltic Sea
 >
-> **Era:** The early 1960s
+> **ERA:** The early 1960s
 
-**Dramatis Personae:**
+**CHALLENGES:**
 
-* [Investigators](#investigators)
-* [Non-Player Characters](#non-player-characters)
-* [Mythos Creatures](#mythos-creatures)
+* [Commandeer a boat](#commandeer-a-boat)
+* [Find out about traps on the water way to Torpedownia](
+    #find-out-about-traps-on-the-water-way-to-torpedownia)
+* [Learn more about those traps and solutions for passing them from NPCs](
+    #learn-more-about-those-traps-and-solutions-for-passing-them-from-npcs)
+* [Commandeer a better boat if the first one seems not suitable](
+    #commandeer-a-better-boat-if-the-first-one-seems-not-suitable)
+* [Prepare the boat for passing the traps](
+    #prepare-the-boat-for-passing-the-traps)
+* [Sail to Torpedownia](#sail-to-torpedownia)
+* _\[TODO\]_
+* ...
 
-Introduction
+**DRAMATIS PERSONAE:**
+
+* [INVESTIGATORS](#investigators)
+* [NON-PLAYER CHARACTERS](#non-player-characters)
+* [MYTHOS CREATURES](#mythos-creatures)
+
+INTRODUCTION
 ------------
 
 Fog comes crawling from the sea,
@@ -53,7 +68,7 @@ the fog drains steadily into the ground,
 inside it spreads and reaches out,
 filling up each tiny gap of air,
 charming the feet of those who came this night right there
-to breath the ... breeze,
+to breath the _\[TODO\]_ ... breeze,
 to breath in stars down from a sky exceptionally clear,
 now feeling like walking in a second sea,
 a sea not liquid but as soft as made of cotton flowers
@@ -100,7 +115,7 @@ human lifeless bodies flying up and down,
 rushing through each other like the leafs of trees in heavy storm,
 held by countless arms of a giant creature that could have not been born
 beneath this starless cloudy new moon sky,
-then slowly ...
+then slowly _\[TODO\]_ ...
 
 The horror was gone and soon the war,
 a country was reborn and needed his skills, his talents in crafts,
@@ -109,11 +124,37 @@ love approached him from shiny green eyes
 and gifted him joy, two sons, one daughter, an adorable family,
 leaving less and less space for visions of horror in his closed eyes' sight,
 horror that had followed him night by night
-now vanished away, became an old dream from ...
+now vanished away, became an old dream from _\[TODO\]_ ...
 
 As years went by the war came again,
 
-Investigators
+_\[TODO\]_ ...
+
+## Commandeer a boat
+
+_\[TODO\]_ ...
+
+## Find out about traps on the water way to Torpedownia
+
+_\[TODO\]_ ...
+
+## Learn more about those traps and solutions for passing them from NPCs
+
+_\[TODO\]_ ...
+
+## Commandeer a better boat if the first one seems not suitable
+
+_\[TODO\]_ ...
+
+## Prepare the boat for passing the traps
+
+_\[TODO\]_ ...
+
+## Sail to Torpedownia
+
+_\[TODO\]_ ...
+
+INVESTIGATORS
 -------------
 
 > ***Radosław*** **'Radek'** ***Szulc***
@@ -148,7 +189,7 @@ Investigators
   after being told about voices of the stolen young poeple
   can be heard from there at night.
 
-> ***Małgorzata*** **'Gosia'** ...
+> ***Małgorzata*** **'Gosia'** _\[TODO\]_ ...
 
 * A medicine student from Gdynia,
   who is the only one of a group of young people
@@ -164,7 +205,7 @@ Investigators
   is therefore able to treat many injuries,
   and has a good sense for approaching health threats.
 
-> ...
+> _\[TODO\]_ ...
 
 * A retired pharmacy owner from Gdańsk,
   who used the chemical knowledge she gained from her father,
@@ -179,3 +220,25 @@ Investigators
 * Asked by Radek to join the investigation of Torpedownia,
   since he knows she is the only one
   who might believe him what happened to the young people at the beach.
+
+## NON-PLAYER CHARACTERS
+
+> **Fishermen**
+
+* _\[TODO\]_ ...
+
+> **Guard dogs for the fisher boats**
+
+* _\[TODO\]_ ...
+
+> _\[TODO\]_
+
+> ...
+
+> **Undead German soldiers from World War I**
+
+* _\[TODO\]_ ...
+
+## MYTHOS CREATURES
+
+_\[TODO\]_ ...
