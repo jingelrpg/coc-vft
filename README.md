@@ -68,9 +68,11 @@ the fog drains steadily into the ground,
 inside it spreads and reaches out,
 filling up each tiny gap of air,
 charming the feet of those who came this night right there
-to breath the _\[TODO\]_ ... breeze,
-to breath in stars down from a sky exceptionally clear,
-now feeling like walking in a second sea,
+to breath in the mild salty breeze,
+to get lost in stars like millionfold seeds of joy and confidence
+from a sky so clear that nowhere it starts and nowhere it ends,
+this group of young friends
+now feels like walking in a second sea,
 a sea not liquid but as soft as made of cotton flowers
 covering an endless cloth of silk invisibly.
 
@@ -115,18 +117,41 @@ human lifeless bodies flying up and down,
 rushing through each other like the leafs of trees in heavy storm,
 held by countless arms of a giant creature that could have not been born
 beneath this starless cloudy new moon sky,
-then slowly _\[TODO\]_ ...
+slowly vanishing into the darkness,
+leaving him alone,
+not knowing should he cherish his survival or forever cry.
 
 The horror was gone and soon the war,
-a country was reborn and needed his skills, his talents in crafts,
-his will to rebuild a prosperous Polish society,
-love approached him from shiny green eyes
+he went back home but nothing was there anymore,
+his home, his parents' house in ruins,
+no neighbor could tell him where his parents' grave is,
+which made him get drunk with all he could find,
+a miracle was that he did not get blind,
+until one day he got aware
+that a country was reborn and needed his skills, his talents in crafts
+to rebuild a prosperous Polish society
+which could only succeed with a wholly new port to the Baltic Sea.
+
+He moved there, he worked like a soulless machine
+until love approached him from shiny green eyes,
+soft cheeks and chin, a huge smile in between,
 and gifted him joy, two sons, one daughter, an adorable family,
 leaving less and less space for visions of horror in his closed eyes' sight,
 horror that had followed him night by night
-now vanished away, became an old dream from _\[TODO\]_ ...
+now vanished away, became an old dream,
+a scene from a movie he might or might not have seen.
 
-As years went by the war came again,
+As years went by the war came again
+not the war that he knew,
+a war even faster and crueler, with millionfold sin,
+with war machines the devil could not think of in his wildest dreams,
+machines that took on the battle field the live of one son,
+which took on retreat the life of the other one,
+which took so close to their home
+the lives of his wife and his daughter on the run,
+so close to his eyes, that every mercy was gone.
+
+He joined the resistance, _\[TODO\]_ ...
 
 _\[TODO\]_ ...
 
