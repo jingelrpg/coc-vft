@@ -197,7 +197,7 @@ INVESTIGATORS
   by German artillery and a gas attack.
   While Radek tried to escape the battle field,
   suddenly all gas got strangely soaked up by the ground
-  and all German soldiers got mysteriously killed
+  and all German soldiers got mysteriously killed and taken away
   by a giant alien creature,
   which left recurring horror visions in Radek's mind
   for most of his life.
