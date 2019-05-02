@@ -201,15 +201,6 @@ INVESTIGATORS
   by a giant alien creature,
   which left recurring horror visions in Radek's mind
   for most of his life.
-* Radek is a man of action, who is almost fearless after having endured
-  an unimaginable fright when whitnessing
-  the horrifying incident on the battle field.
-  But he got lazy in his old days due to the increasing amount of alcohol,
-  he consumes to drown his torturing emotions
-  about the cruel deaths of all his loved ones and fellows in his life.
-* Radek is very skilled and telented in various handcrafts,
-  able to repair virtually any machine and to improve tools and vehicles
-  for special purposes.
 * After finding out that he lost his parents to the war when coming home,
   Radek soon moved to Gdynia to help building the new Baltic Sea port,
   started a family and stayed there.
@@ -222,6 +213,15 @@ INVESTIGATORS
   Radek was drunk and therfore didn't see them coming.
   Only Jelka and he survived, but couldn't deal with other anymore
   due to his lethal failure.
+* Radek is a man of action, who is almost fearless after having endured
+  an unimaginable fright when whitnessing
+  the horrifying incident on the battle field.
+  But he got lazy in his old days due to the increasing amount of alcohol
+  he consumes to drown his torturing emotions
+  about the cruel deaths of all his loved ones and fellows in his life.
+* Radek is very skilled and telented in various handcrafts,
+  able to repair virtually any machine and to improve tools and vehicles
+  for special purposes.
 * Now an old and desperate man,
   Radek whitnesses the alien creature coming back
   to snatch away a group of young people into the Baltic Sea at night
