@@ -141,7 +141,7 @@ horror that had followed him night by night
 now vanished away, became an old dream,
 a scene from a movie he might or might not have seen.
 
-As years went by the war came again
+As years went by the war came again,
 not the war that he knew,
 a war even faster and crueler, with millionfold sin,
 with war machines the devil could not think of in his wildest dreams,
