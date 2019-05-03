@@ -13,7 +13,7 @@ Free Documentation License".
 Voices from Torpedownia
 =======================
 
-_A scenario for the [Call of Cthulhu role-playing system](
+_An adventure for the [Call of Cthulhu role-playing system](
   https://www.chaosium.com/call-of-cthulhu-rpg/),
 wherein the investigators can reflect on if it's worth
 gaining a moment of pure satisfaction by defeating all ghosts from the past
