@@ -29,7 +29,7 @@ a **#Nerdy** manifestation of **Stefan Zimmermann**_
 >
 > **ERA:** The early **1960s**
 
-**CHALLENGES:**
+**SCENES:**
 
 * [The investigation begins](
     #the-investigation-begins)
