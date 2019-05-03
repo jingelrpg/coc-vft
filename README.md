@@ -31,16 +31,18 @@ a **#Nerdy** manifestation of **Stefan Zimmermann**
 
 **CHALLENGES:**
 
-* [Commandeer a boat](#commandeer-a-boat)
-* [Find out about traps on the water way to Torpedownia](
-    #find-out-about-traps-on-the-water-way-to-torpedownia)
-* [Learn more about those traps and solutions for passing them from NPCs](
-    #learn-more-about-those-traps-and-solutions-for-passing-them-from-npcs)
-* [Commandeer a better boat if the first one seems not suitable](
-    #commandeer-a-better-boat-if-the-first-one-seems-not-suitable)
-* [Prepare the boat for passing the traps](
-    #prepare-the-boat-for-passing-the-traps)
-* [Sail to Torpedownia](#sail-to-torpedownia)
+* [On commandeering a boat](#on-commandeering-a-boat)
+* [Unexpected traps on the water way to Torpedownia](
+    #unexpected-traps-on-the-water-way-to-torpedownia)
+* [Some people seem to know more about those traps](
+    #some-people-seem-to-know-more-about-those-traps)
+* [On commandeering a better boat if not already done so](
+    #on-commandeering-a-better-boat-if-not-already-done-so)
+* [The boat needs preparation for passing the traps](
+    #the-boat-needs-preparation-for-passing-the-traps)
+* [Reaching Torpedownia](#reaching-torpedownia)
+* [Those Pickelhauben from the battlefield](
+    #those-pickelhauben-from-the-battlefield)
 * _\[TODO\]_
 * ...
 
@@ -145,7 +147,7 @@ As years went by the war came again,
 not the war that he knew,
 a war even faster and crueler, with millionfold sin,
 with war machines the devil could not think of in his wildest dreams,
-machines that took on the battle field the live of one son,
+machines that took on the battlefield the live of one son,
 which took on retreat the life of the other one,
 which took so close to their home
 the lives of his wife and his daughter on the run,
@@ -155,27 +157,31 @@ He joined the resistance, _\[TODO\]_ ...
 
 _\[TODO\]_ ...
 
-## Commandeer a boat
+## On commandeering a boat
 
 _\[TODO\]_ ...
 
-## Find out about traps on the water way to Torpedownia
+## Unexpected traps on the water way to Torpedownia
 
 _\[TODO\]_ ...
 
-## Learn more about those traps and solutions for passing them from NPCs
+## Some people seem to know more about those traps
 
 _\[TODO\]_ ...
 
-## Commandeer a better boat if the first one seems not suitable
+## On commandeering a better boat if not already done so
 
 _\[TODO\]_ ...
 
-## Prepare the boat for passing the traps
+## The boat needs preparation for passing the traps
 
 _\[TODO\]_ ...
 
-## Sail to Torpedownia
+## Reaching Torpedownia
+
+_\[TODO\]_ ...
+
+## Those Pickelhauben from the battlefield]
 
 _\[TODO\]_ ...
 
@@ -190,12 +196,12 @@ INVESTIGATORS
 
 * A retired World War I veteran from a small village near Kraków (Cracow),
   who was forced as a young man to join the Russian army.
-  He was one of the only survivor on an unspecified minor battle field
+  He was one of the only survivor on an unspecified minor battlefield
   in the end phase of the war in Eastern Europe.
   During an exceptionally dark night,
   all other soldiers on Russian side were killed
   by German artillery and a gas attack.
-  While Radek tried to escape the battle field,
+  While Radek tried to escape the battlefield,
   suddenly all gas got strangely soaked up by the ground
   and all German soldiers got mysteriously killed and taken away
   by a giant alien creature,
@@ -217,7 +223,7 @@ INVESTIGATORS
   due to his lethal failure.
 * Radek is a man of action, who is almost fearless after having endured
   an unimaginable fright when whitnessing
-  the horrifying incident on the battle field.
+  the horrifying incident on the battlefield.
   But he got lazy in his old days due to the increasing amount of alcohol
   he consumes to drown his torturing emotions
   about the cruel deaths of all his loved ones and fellows in his life.
@@ -318,7 +324,8 @@ INVESTIGATORS
   and facing the mysterious forces
   that have haunted him in his dreams for most of his life.
 
-## NON-PLAYER CHARACTERS
+NON-PLAYER CHARACTERS
+---------------------
 
 > **Redłowo fishermen**
 
@@ -346,6 +353,7 @@ INVESTIGATORS
 * _\[TODO\]_
 * ...
 
-## MYTHOS CREATURES
+MYTHOS CREATURES
+----------------
 
 _\[TODO\]_ ...
