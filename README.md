@@ -71,7 +71,7 @@ The water put itself inside a cloak,
 as if it was ashamed of what there might be seen inside
 while brightly shining in the full moon's light
 of this warm and silent summer night
-at Orłowo beach.
+at Babie Doły beach.
 
 Together with this film of water left behind at land
 with every wave that reaches far into the fine white sand,
@@ -296,7 +296,7 @@ INVESTIGATORS
   that can be saved by Radek
   when he whitnesses the group getting mysteriously dragged
   by an alien creature into the Baltic Sea
-  during the night at Orłowo beach.
+  during the night at Babie Doły beach.
 * Gosia lost her mother during a similar event when she was a child
   and alone with her at Orłowo beach at night,
   happy that the war was over,
@@ -321,7 +321,7 @@ INVESTIGATORS
   all memories about her mother come back.
   Gosia realizes that it was caused by the same mysterious force.
   She decides to fight back.
-  After a few days she returns to Orłowo beach at night
+  After a few days she returns to Babie Doły beach at night
   and suddenly hears the voices of her friends,
   seeming to come from Torpedownia.
   She convinces Radek to investigate the incident together with her
@@ -377,7 +377,7 @@ INVESTIGATORS
 NON-PLAYER CHARACTERS
 ---------------------
 
-> **Redłowo fishermen**
+> **Oksywie fishermen**
 
 * _\[TODO\]_ ...
 
