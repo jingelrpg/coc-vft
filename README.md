@@ -13,404 +13,175 @@ Free Documentation License".
 Voices from Torpedownia
 =======================
 
-_An adventure for the [Call of Cthulhu role-playing system](
-  https://www.chaosium.com/call-of-cthulhu-rpg/),
-wherein the investigators can reflect on if it's worth
-gaining a moment of pure satisfaction by defeating all ghosts from the past
-before loosing sanity or even their own life._
+_A scenario for the [**Call of Cthulhu** RolePlaying](
+  https://www.chaosium.com/call-of-cthulhu-rpg/) system,
+wherein sanity becomes the currency
+for re-acquiring never processed parts of memory_
+
+_When all ghosts from the past,
+that had made life unbearable for so long,
+that were locked up to move on,
+need to be faced at once
+to stop a neverending vicious dance_
+
+_When centuries of studies
+of the laws of the ever-repeating history,
+to find the key of freedom for a nation and its society,
+lead to nothing but ever-repeating sacrifice and gruelty_
+
+-- _Created by **Jingël Bøltę**,
+a **#Nerdy** manifestation of **Stefan Zimmermann**_
 
 > **Licensed** under the [GNU Free Documentation License 1.3](
     https://www.gnu.org/licenses/fdl.html)
 
--- _Written by **Jingël Bøltę**,
-a **#Nerdy** manifestation of **Stefan Zimmermann**_
-
-> **LOCATION:** The Polish town **Gdynia** at the **Baltic Sea**
+> **LOCATION:** **Trójmiasto**, the Polish **'TriCity'**
+> of **Gdynia**, **Sopot**, and **Gdańsk**
+> at the **Baltic Sea**
 >
 > **ERA:** The early **1960s**
 
-**SCENES:**
-
-* [The investigation begins](
-    #the-investigation-begins)
-* [On commandeering a boat](
-    #on-commandeering-a-boat)
-* [Unexpected traps on the water way to Torpedownia](
-    #unexpected-traps-on-the-water-way-to-torpedownia)
-* [Some people seem to know about the traps](
-    #some-people-seem-to-know-about-the-traps)
-* [On commandeering a better boat if not already done](
-    #on-commandeering-a-better-boat-if-not-already-done)
-* [The boat needs preparation for passing the traps](
-    #the-boat-needs-preparation-for-passing-the-traps)
-* [Reaching Torpedownia](
-    #reaching-torpedownia)
-* [Those bloody Pickelhauben from the battlefield](
-    #those-bloody-pickelhauben-from-the-battlefield)
-* [Oh father, what hast Thou become](
-    #oh-father-what-hast-thou-become)
-* [The hell on Hel](
-    #the-hell-on-hel)
-* _\[TODO\]_
-* ...
-
-**DRAMATIS PERSONAE:**
-
-* [INVESTIGATORS](#investigators)
-* [NON-PLAYER CHARACTERS](#non-player-characters)
-* [MYTHOS CREATURES](#mythos-creatures)
-
-PROLOGUE
---------
-
-Fog comes crawling from the sea,
-carried by the waves,
-waging forth and back with them so tightly bound
-that barely can be heard the seaside's meditative sound.
-The water put itself inside a cloak,
-as if it was ashamed of what there might be seen inside
-while brightly shining in the full moon's light
-of this warm and silent summer night
-at Orłowo beach.
-
-Together with this film of water left behind at land
-with every wave that reaches far into the fine white sand,
-the fog drains steadily into the ground.
-Inside it spreads and reaches out,
-fills up each tiny gap of air,
-and charms the feet of those who came this night right there.
-
-They came to breath in the mild salty breeze,
-to get lost in stars like millionfold seeds
-of joy and confidence
-above a sky so clear that nowhere it starts and nowhere it ends.
-The sand below the group of young friends
-had turned into a second sea,
-not liquid but as soft as made of cotton flowers
-covering an endless cloth of silk invisibly.
-
-Watching from a bench the pleasure of the youth down there,
-that celebrates a life no more aware
-of neither war nor other threads of unimaginable quality,
-aching memories of loss and oh! this one eternal fright
-crawled back in old man Radek's soul this night.
-
-His mind has rarely left that battlefield,
-where he was running from the toxic gas
-released there by the enemies.
-Barely shielded by his old and clumsy mask,
-he stumbled over corpses ripped open and apart
-and half stuck in the muddy work of terror's art
-like stumps of dead old trees.
-Some gave birth to filthy creatures
-crawling through their skulls and chests and earth beneath.
-
-Falling straight into a rifle bound
-to strong cramped fingers sticking out of blood- and tear-soaked ground,
-the bayonet stabbed from the bottom through his mask.
-It cut slightly into eyebrow, cheek, and chin,
-so that all within
-his sight
-lost any meaning in that freezing winter night.
-All vanished but the edge of the weapon so close to his eye,
-no more bullets flying by,
-no more screaming, detonations, roaring sounds of war machines,
-no more madmen living out the devil's wildest dreams.
-
-No more enemies were there,
-no more gas smell in the air.
-After freeing carefully his head from its ironic trap,
-he became aware
-that indeed no gas was left around him anywhere,
-that a silence had set in he hadn't known for years.
-He seemed to be the only living soul around,
-when suddenly a deep and heavy all-enclosing sound
-came crawling into his from battle noise recovering ears.
-
-Looking back at the enemy line,
-he suddenly felt all the fears, all grief
-of his entire life
-becoming obsolete compared to sudden pure and total fright
-instilled in him by what he barely could perceive
-now in his whole life's darkest night.
-
-Remaining clouds of gas were soaked into the ground.
-Human lifeless bodies started flying up and down,
-rushing through each other like the leafs of trees in heavy storm,
-held by countless arms of a giant creature that could have not been born
-beneath this starless cloudy new moon sky.
-Saturated with its prey,
-the creature vanished in darkness away,
-leaving him alone yet not to die,
-not knowing should he cherish his survival or forever cry.
-
-The horror was gone and soon the war,
-he went back home but nothing was there anymore.
-His home, his parents' house, it lay in ruins,
-no neighbor could tell him where his parents' grave is.
-He went on to get drunk with all he could find,
-a miracle was that he did not get blind.
-
-For many months he just felt torn,
-until one day he got aware
-that a country was reborn
-and needed his skills,
-his talents in crafts, his will
-to rebuild a prosperous Polish society
-which could only succeed
-with a wholly new port to the Baltic Sea.
-
-He left all behind, he straightly moved there,
-where he worked like a soulless machine,
-until love approached him from shiny green eyes,
-from lips as sweet as a tangerine,
-from soft cheeks and chin,
-from a huge smile in between.
-
-She gifted him joy, two sons, a daughter, an adorable family,
-leaving less and less space for visions of horror and agony
-in his closed eyes' sight.
-That horror which had followed him night by night,
-it vanished, became an old dream,
-a scene from a movie he might or might not have seen.
-
-As years went by, the war came again,
-not the war that he knew,
-a war even faster and crueler,
-with millionfold sin.
-It brought even deadlier war machines,
-which not even the devil could think of in wildest dreams.
-They took on the battlefield the live of one son.
-They took on retreat the life of the other one.
-They took so close to their home
-the lives of his wife and his daughter on the run,
-so close to his eyes,
-that all mercy in Radek was gone.
-
-He joined the resistance, _\[TODO\]_ ...
-
-_\[TODO\]_ ...
-
-## The investigation begins
-
-_\[TODO\]_ ...
-
-## On commandeering a boat
-
-_\[TODO\]_ ...
-
-## Unexpected traps on the water way to Torpedownia
-
-_\[TODO\]_ ...
-
-## Some people seem to know about the traps
-
-_\[TODO\]_ ...
-
-## On commandeering a better boat if not already done
-
-_\[TODO\]_ ...
-
-## The boat needs preparation for passing the traps
-
-_\[TODO\]_ ...
-
-## Reaching Torpedownia
-
-_\[TODO\]_ ...
-
-## Those bloody Pickelhauben from the battlefield
-
-_\[TODO\]_ ...
-
-## Oh father, what hast Thou become
-
-_\[TODO\]_ ...
-
-## Fleeing the Creature
-
-_\[TODO\]_ ...
-
-## The hell on Hel
-
-_\[TODO\]_ ...
-
-## _\[TODO\]_
-
-## ...
-
-INVESTIGATORS
--------------
-
-> ***Radosław*** **'Radek'** ***Szulc***
-
-* A retired World War I veteran from a small village near Kraków (Cracow),
-  who was forced as a young man to join the Russian army.
-  He was the only survivor on an unspecified minor battlefield
-  in the end phase of the war in Eastern Europe.
-  During an exceptionally dark night,
-  all other soldiers on Russian side were killed
-  by German artillery and a gas attack.
-  While Radek tried to escape the battlefield,
-  suddenly all gas got strangely soaked up by the ground
-  and all German soldiers got mysteriously killed and taken away
-  by a giant alien creature,
-  which left recurring horror visions in Radek's mind
-  for most of his life.
-* After finding out that he lost his parents to the war when coming home,
-  Radek soon moved to Gdynia to help building the new Polish Baltic Sea port,
-  started a family and stayed there.
-* Radek joined the Polish resistance in World War II after having lost
-  his wife and all his three children to the war.
-  There he met Jelka, a young woman with exceptional intellect
-  and huge knowledge in chemistry,
-  which had made her become an explosives specialist.
-  Soon after she joined his resistance group
-  they got attacked one night by Gestapo.
-  Radek was drunk and therefore didn't see them coming.
-  Only Jelka and Radek survived
-  but couldn't deal each with other anymore
-  due to his lethal failure.
-* Radek is a man of action, who is almost fearless after having endured
-  an unimaginable fright when whitnessing
-  the horrifying incident on the battlefield.
-  But he got lazy in his old days due to the increasing amount of alcohol
-  he consumes to drown his torturing emotions
-  about the cruel deaths of all his loved ones and fellows in his life.
-* Radek is very skilled and telented in various handcrafts,
-  able to repair virtually any machine and to improve tools and vehicles
-  for special purposes.
-* Now an old and desperate man,
-  Radek whitnesses the alien creature coming back
-  to snatch away a group of young people into the Baltic Sea at night.
-  He is able to save young woman Gosia during the incident.
-  After a few days of almost unbearable horror visions
-  he agrees to Gosia's plan of investigating
-  what is going on in the abandoned military sea platform Torpedownia,
-  from where she heard the voices of her friends when revisiting the beach.
-
-> ***Małgorzata*** **'Gosia'** _\[TODO\]_ ...
-
-* A medicine student from Gdynia,
-  who is the only one of a group of young people
-  that can be saved by Radek
-  when he whitnesses the group getting mysteriously dragged
-  by an alien creature into the Baltic Sea
-  during the night at Orłowo beach.
-* Gosia lost her mother during a similar event when she was a child
-  and alone with her at Orłowo beach at night,
-  happy that the war was over,
-  cherishing their survival and their hope for a better future.
-  She saw a cat and wanted to play with it.
-  When she ran after the cat and a little away from the beach,
-  the same fog suddenly appeared.
-  Her mother was as fascinated as Gosia's present friends
-  by the strange event
-  and was eventually also dragged into the sea like them.
-  Nodoby wanted to believe Gosia's story about what she had seen.
-  The event was offically declared as a suicide by the police.
-  Gosia grew up alone then with her father,
-  and as the years went by, the memories of her mother
-  and the tragedy of her mother's disappearance
-  became more and more just nothing but an old childhood dream.
-* Gosia is a brave young woman with straight goals her life.
-  She has already lots of practical experience as a physician assistant,
-  is therefore able to treat many injuries,
-  and has a good sense for recognizing probable threats to health.
-* After the incident of her stolen friends,
-  all memories about her mother come back.
-  Gosia realizes that it was caused by the same mysterious force.
-  She decides to fight back.
-  After a few days she returns to Orłowo beach at night
-  and suddenly hears the voices of her friends,
-  seeming to come from Torpedownia.
-  She convinces Radek to investigate the incident together with her
-  and reveal the mystery about what is going on
-  in the abandoned military sea platform.
-
-> ***Angelika*** **'Jelka'** ***Bronsztajn***
-
-* The head of a smuggling organization in Gdańsk,
-  which secretly imports Swedish medicines to Poland,
-  where health-care is badly organized
-  and has to struggle with constant shortages in medication supply
-  from the Soviet Union.
-  The smuggle is supported by Jelka's Jewish contacts
-  in the Swedish pharmaceutical industry.
-* Jelka has a very broad knowledge and speeks several languages,
-  which she learned from her father,
-  a Jewish Austro-Slovakian World War I deserter from Bratislava,
-  who was a pharmacist, anarchist, and member of the Esperanto movement.
-  On his escape from the Austrian army jurisdiction,
-  he eventually found shelter in the Jewish community
-  of the Free City of Gdańsk,
-  where he met Jelka's mother
-  and took the opportunity to run a pharmacy
-  after the retirement of its former owner
-  and fellow Jewish community member.
-* During the Nazi occupation of Gdańsk,
-  Jelka and her father found shelter in different Jewish-friendly families,
-  until her father was eventually arrested by Gestapo.
-  Luckily she wasn't found and continued to find several hideouts.
-* In the middle of World War II,
-  Jelka joined the Polish resistance,
-  where she used the chemical knowledge she gained from her father
-  to become an explosives specialist.
-  After becoming a member of Radek's resistance group,
-  she quickly fell in love with him,
-  but was soon afterwards besides Radek the only survivor
-  of an attack on the group
-  that Radek had not seen coming due to being drunk.
-* Jelka still loves Radek,
-  but could never forgive him the loss of their resistance group members.
-  Therefore they haven't seen or talked to each other for a long time.
-  Now Radek asks her to join the investigation of Torpedownia,
-  because he feels that she is the only one
-  who might believe him what happened to the young people at the beach.
-  He also hopes that she will realize how much he truly regrets
-  his failures of the past,
-  and that he seeks a final salvation
-  by rescuing those stolen young people
-  and facing the mysterious forces
-  that have haunted him in his dreams for most of his life.
-
-NON-PLAYER CHARACTERS
----------------------
-
-> **Redłowo fishermen**
-
-* _\[TODO\]_ ...
-
-> **Guard dogs of the fisher boats**
-
-* _\[TODO\]_ ...
-
-> _\[TODO\]_
-
-> ...
-
-> **Undead German soldiers from World War I**
-
-* The guards of Torpedownia.
-* _\[TODO\]_ ...
-
-> **Miroslav Bronsztajn**
-
-* The father of Jelka, who she tought was executed by Gestapo
-  during the Nazi occupation of Gdańsk.
-* Now the Master of Chairs of Kult Kotylionu (Cult of Cotillion),
-  which has occupied the abandoned military sea platform Torpedownia
-  after World War II.
-* _\[TODO\]_
-* ...
-
-> _\[TODO\]_
-
-> ...
-
-MYTHOS CREATURES
-----------------
-
-> _\[TODO\]_
-
-> ...
+Act #Zero :: The Night the Time Runs Back and Forth
+---------------------------------------------------
+
+_"Voices from Torpedownia"
+is not a classic time-travelling adventure,
+actually none at all.
+And yet the Investigators go on a journey through memories
+that heavily influences their present activities,
+memories spanning three decades,
+from a toxic gas-soaked battlefield of World War I
+to the years just after World War II had finally gone_
+
+### On the Beach
+
+It is the summer of 1961.
+The Baltic Sea is warm and quiet
+just like the clear and shiny full-moon night.
+They are almost all united again,
+six of those unseparatable seven former children
+in the orphanage of Gdańsk Wrzeszcz,
+children whose parents all died or went missing
+during and soon after the war
+
+They had always caused trouble at the orphange,
+which often had painful consequences,
+but they just wanted to stick together
+and tried whatever possible
+to avoid being given away to new families.
+Until they were separated at the orphanage
+and finally gave up their resistance
+
+Now they are young adults and managed to fulfill
+what they swore together in the orphanage,
+finding each other again when they are old enough
+to go their own ways in life.
+All came together except Tomek.
+None of the others could find out anything so far
+about what happened to him
+
+But they would never give up,
+and tonight they want to celebrate
+what they achieved so far,
+here at Babie Doły beach in the far north of Gdynia,
+where they are alone and can talk freely
+in times when you always have to be a bit careful
+what you are talking about
+
+> The players now choose
+> whom of those characters to impersonate.
+> At least one and not more than two of the Orphans
+> should be chosen as Investigators,
+> and two players need to be left
+> for impersonating the following two Investigator characters,
+> which are about to be introduced
+> in the next two scenes of this act
+>
+> For making this decision,
+> the players should basically ask themselves
+> if they want to play young Investigators
+> who have no personal involvement
+> in the mystery behind the adventure
+> (whereby their real parents
+> were actually involved to varying degrees),
+> or if they want to play elderly characters
+> whose past is directly entangled with the mystery,
+> even though they don't know yet
+>
+> If the players can't decide for specific characters,
+> then dice can be used.
+> In the Investigator descriptions,
+> the Orphans are numbered from 1 to 6.
+> Roll 1D6 for choosing the first one.
+> Then the optional second player rolls 1D6 again
+> until they roll a number different from the first one
+> for choosing the second one
+>
+> Afterwards the players should talk about stories
+> from the orphanage,
+> from all the time their Investigators were separated,
+> and about how they managed to find each other again.
+> The Keeper should take over the role(s)
+> of as many of the remaining young people as they want
+> during this conversation,
+> and should make notes about those stories
+> to use them later during the adventure
+> whenever possible
+> (More information for the Keeper is given
+> in the **Keeper Knowledge** appendices)
+
+Suddenly the sound of the sea changes.
+It gets much softer and even quieter.
+The continuous sounds of the waves start to reverb.
+Looking at the sea,
+the Orphans see the water first slowly getting blurry,
+then a thick and smooth white fog
+emitted from the water surface
+and covers it so tightly
+that it follows every movement of the water, every wave
+
+The fog flows back and forth with the waves
+when they hit the beach,
+but every time a bit more of the fog stays on land
+and drains down into the sand.
+The young people feel the sand below their feet
+becoming slowly softer.
+They feel like walking on finest pillows,
+or like in a sea of blossoms from magical flowers
+
+And then each of them realizes
+that this is not the first time,
+that every one of them has seen that fog before,
+when they were very young,
+when their parents were still alive.
+They realize that it was no dream
+as they had thought for all those years,
+and they start to remember...
+
+> At this point, the Keeper explains the so-called
+> **FlashBack Mechanics (FBM)** of this adventure,
+> in which sanity checks decide
+> how much of the past is revealed in those FlashBacks.
+> The more sanity is lost,
+> the more is revealed.
+> The player(s) also tell about
+> their own aspects of those memories.
+> The Keeper makes again notes about these
+> to use them later during the adventure
+> whenever possible
+
+### On the Bench
+
+_\[TODO\]_
+
+### Meanwhile in the Hospital
+
+_\[TODO\]_
+
+### The Creature Returns
+
+_\[TODO\]_
+
+### And Here Comes the Kult
+
+_\[TODO\]_
