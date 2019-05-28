@@ -27,7 +27,7 @@ to stop a neverending vicious dance_
 _When centuries of studies
 of the laws of the ever-repeating history,
 to find the key of freedom for a nation and its society,
-lead to nothing but ever-repeating sacrifice and gruelty_
+lead to nothing but ever-repeating sacrifice and cruelty_
 
 -- _Created by **Jingël Bøltę**,
 a **#Nerdy** manifestation of **Stefan Zimmermann**_
