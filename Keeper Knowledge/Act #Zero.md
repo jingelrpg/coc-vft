@@ -1,0 +1,38 @@
+Voices from Torpedownia :: Keeper Knowledge
+===========================================
+
+_What the Keeper should know
+before and during running the [**Call of Cthulhu** RolePlaying](
+  https://www.chaosium.com/call-of-cthulhu-rpg/) scenario
+"Voices from Torpedownia"_
+
+-- _Assembled by **Jingël Bøltę**,
+a **#Nerdy** manifestation of **Stefan Zimmermann**_
+
+> **Licensed** under the [GNU Free Documentation License 1.3](
+    https://www.gnu.org/licenses/fdl.html)
+
+Act #Zero :: The Night the Time Runs Back and Forth
+---------------------------------------------------
+
+_\[TODO\]_
+
+### On the Beach
+
+_\[TODO\]_
+
+### On the Bench
+
+_\[TODO\]_
+
+### Meanwhile in the Hospital
+
+_\[TODO\]_
+
+### The Creature Returns
+
+_\[TODO\]_
+
+### And Here Comes the Kult
+
+_\[TODO\]_
